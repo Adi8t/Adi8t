@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipak Pawar</h1>
 <h3 align="center">Fueling Innovation with Python: An Enthusiastic Backend Developer from India | GitHub</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipk-pawar&label=Profile%20views&color=0e75b6&style=flat" alt="dipk-pawar" /> </p>
-
+[![](https://visitcount.itsvg.in/api?id=Adi8t&icon=1&color=0)](https://visitcount.itsvg.in)
 - 💬 Ask me about **Python, Django, Django Rest Framework**
 
 - 📫 How to reach me **adityrangi2@gmail.com**
