@@ -1,3 +1,6 @@
+Hi 👋, I'm Aditya Rangi
+Fueling Innovation with Python: An Enthusiastic Backend Developer from India | GitHub
+
 - 💬 Ask me about **Python, Django, Django Rest Framework**
 
 - 📫 How to reach me **adityrangi2@gmail.com**
