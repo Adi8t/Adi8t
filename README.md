@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Dipak Pawar</h1>
+<h1 align="center">Hi 👋, I'm Aditya Rangi</h1>
 <h3 align="center">Fueling Innovation with Python: An Enthusiastic Backend Developer from India | GitHub</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 [![](https://visitcount.itsvg.in/api?id=Adi8t&icon=1&color=0)](https://visitcount.itsvg.in)
+
 - 💬 Ask me about **Python, Django, Django Rest Framework**
 
 - 📫 How to reach me **adityrangi2@gmail.com**
@@ -38,6 +40,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Adi8t&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Adi8t&icon=1&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
